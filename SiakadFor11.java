@@ -14,8 +14,8 @@ public class SiakadFor11 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
-            System.out.println("Nilai tertinggi saat ini: " + tertinggi);
-            System.out.println("Nilai terendah saat ini: " + terendah);
         }
+        System.out.println("Nilai tertinggi saat ini: " + tertinggi);
+        System.out.println("Nilai terendah saat ini: " + terendah);
     }
 }
